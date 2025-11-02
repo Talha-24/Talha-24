@@ -1,11 +1,7 @@
-## Hi, I'm Talha
-I'm a passionate Front-End Developer with a background in Computer Science and a strong foundation in HTML, CSS, JavaScript, TypeScript, and React.js. I love building clean, responsive web applications and continually learning new technologies.
+Hey, I’m Talha, a frontend developer with 1+ year of experience specializing in Next.js, React.js, and JavaScript. I build fast, scalable, and user-friendly web applications with a keen eye for UI/UX.
 
-🚀 Experience
-📊 CRUD Application – Implemented full CRUD functionality using RESTful APIs with GET, POST, PUT, DELETE methods. Focused on clean UI and smooth user interaction.
-Currently working on Ailaan- a kind of E-Commerce Web App
-💡 Learning & Goals
-Currently sharpening my skills in OOP and DSA , and preparing for opportunities at top tech companies like Google .
-Interested in mastering browser internals like browsers internal working chromium, v8 engine, networking and also working on  advanced JavaScript for real-world problem-solving.
-📫 Let's Connect
-I’m always open to feedback, collaboration, or opportunities. Check out my repositories and feel free to reach out!
+ - Expert in modern frontend stacks – React, TypeScript, Tailwind CSS, Redux, React Query and SWR.
+ - Strong problem-solving & debugging skills, ensuring seamless user experiences.
+ - Proficient in API integrations using GraphQL & REST for dynamic data handling.
+ - Skilled in performance optimization, accessibility, and responsive design.
+ - Familiar with DevOps tools – Git, GitHub, CI/CD, and Vercel for smooth deployments.
