@@ -19,7 +19,7 @@
 <!-- TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=130&lines=Building+systems+that+solve+real+problems+%F0%9F%9A%80;WordPress+%7C+Shopify+%7C+PHP+%7C+Laravel;Open+to+Freelance+%26+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=950&lines=Helping+Businesses+Build+Modern+Web+Applications;React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Landing+Pages+%E2%80%A2+Business+Dashboards+%E2%80%A2+SaaS;Performance+%E2%80%A2+UX+%E2%80%A2+Clean+Code" />
   </a>
 </div>
 
