@@ -223,18 +223,34 @@ available   : Open to Freelance & Remote Work
 <br/>
 
 ---
+<!-- ========================================================= -->
+<!-- GITHUB STATS -->
+<!-- ========================================================= -->
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nomidevo8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9" />&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomidevo8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Talha-24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=60A5FA&text_color=c9d1d9&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-24&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Talha-24&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=60A5FA&point=FFFFFF"/>
+
 </div>
+
+---
 
 <br/>
 
 <div align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=nomidevo8&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Talha-24&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8b949e" />
 </div>
 
 <br/>
@@ -245,15 +261,15 @@ available   : Open to Freelance & Remote Work
 
 <div align="center">
   <a href="mailto:nomideveloper628@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nomideveloper628@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-talhacoder1033@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/noman-sajjad-infy">
-    <img src="https://img.shields.io/badge/LinkedIn-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/LinkedIn-https://talhacoder.gt.tc-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="https://naumansajjad.infy.uk">
-    <img src="https://img.shields.io/badge/Portfolio-https://naumansajjad.infy.uk-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Portfolio-https://talhacoder.gt.tc-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
   </a>
   &nbsp;
   <a href="https://profiles.wordpress.org/nomidevo/">
