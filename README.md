@@ -300,7 +300,7 @@ React • Next.js • SaaS • Frontend Engineering
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nomidevo8&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Talha-24&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
