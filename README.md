@@ -256,30 +256,37 @@ available   : Open to Freelance & Remote Work
 <br/>
 
 ---
+---
 
-## 📬 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="mailto:nomideveloper628@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-talhacoder1033@gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/noman-sajjad-infy">
-    <img src="https://img.shields.io/badge/LinkedIn-https://talhacoder.gt.tc-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://naumansajjad.infy.uk">
-    <img src="https://img.shields.io/badge/Portfolio-https://talhacoder.gt.tc-1a1a2e?style=for-the-badge&logo=vercel&logoColor=ffffff" />
-  </a>
-  &nbsp;
-  <a href="https://profiles.wordpress.org/nomidevo/">
-    <img src="https://img.shields.io/badge/WordPress-Profile-1a1a2e?style=for-the-badge&logo=wordpress&logoColor=21BDDB" />
-  </a>
-  &nbsp;
-  <a href="https://gravatar.com/nomideveloper628">
-    <img src="https://img.shields.io/badge/Gravatar-nomideveloper628-1a1a2e?style=for-the-badge&logo=gravatar&logoColor=1E8CBE" />
-  </a>
+
+### Interested in working together?
+
+React • Next.js • SaaS • Frontend Engineering
+
+<br>
+
+<a href="mailto:talhacoder1033@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohammad-talha-94aa89375/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Talha-24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://talhacoder.gt.tc">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
+
+---
 
 <br/>
 
