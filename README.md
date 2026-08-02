@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0f172a,020617&text=Mohammad%20Talha%20%7C%20React%20%26%20Next.js%20Developer&fontSize=42&fontAlignY=30&fontColor=ffffff&animation=fadeIn&strokeWidth=0&desc=Building%20Modern%20Landing%20Pages%20%26%20Business%20Web%20Applications-nl-TypeScript%20%E2%80%A2%20TailwindCSS%20%E2%80%A2%20Supabase%20%E2%80%A2%20Firebase&descAlign=50&descAlignY=46&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Mohammad%20Talha&desc=React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20-nl-%20Landing%20Pages%20%E2%80%A2%20SaaS%20Applications%20%E2%80%A2%20Business%20Web%20Apps%20-nl-%20Supabase%20%E2%80%A2%20Firebase&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+Fast+%26+Scalable+Web+Applications;Clean+Code.+Modern+UI.+Real+Business+Solutions." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=900&lines=Crafting+Exceptional+Web+Experiences;React.js+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Fast+%7C+Responsive+%7C+Scalable;Building+Products+People+Love+to+Use" />
 
 </div>
 
