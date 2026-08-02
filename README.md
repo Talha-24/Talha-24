@@ -1,6 +1,6 @@
 <!-- HEADER WAVE BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0f172a,020617&text=Mohammad%20Talha%20%7C%20React%20%26%20Next.js%20Developer&fontSize=42&fontAlignY=30&fontColor=ffffff&animation=fadeIn&strokeWidth=0&desc=Building%20Modern%20Landing%20Pages%20%26%20Business%20Web%20Applications-nl-TypeScript%20%E2%80%A2%20TailwindCSS%20%E2%80%A2%20Supabase%20%E2%80%A2%20Firebase&descAlign=50&descAlignY=46&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Mohammad%20Talha&fontSize=52&fontAlignY=30&fontColor=FFFFFF&animation=scaleIn&stroke=1e293b&strokeWidth=2&desc=React.js%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20-nl-%20Landing%20Pages%20%E2%80%A2%20Business%20Web%20Apps%20-nl-%20Supabase%20%E2%80%A2%20Firebase%20%E2%80%A2%20API%20Integration&descAlign=50&descAlignY=46&descSize=18" />
 </div>
 
 <br/>
