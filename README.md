@@ -1,6 +1,6 @@
 <!-- HEADER WAVE BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000000,1a1a1a&text=Talha%20Developer&desc=Full%20Stack%20Developer%20-nl-%20WordPress%20Engineer%20%E2%80%A2%20Shopify%20Theme%20Customization%20-nl-%20Building%20SaaS%20Products%20and%20Business%20Solutions&descAlign=50&fontSize=50&fontAlignY=30&descAlignY=46&animation=scaleIn&descSize=18&strokeWidth=13&textBg=false&section=header&fontColor=FFFFFF&stroke=1e293b" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0f172a,020617&text=Mohammad%20Talha%20%7C%20React%20%26%20Next.js%20Developer&fontSize=42&fontAlignY=30&fontColor=ffffff&animation=fadeIn&strokeWidth=0&desc=Building%20Modern%20Landing%20Pages%20%26%20Business%20Web%20Applications-nl-TypeScript%20%E2%80%A2%20TailwindCSS%20%E2%80%A2%20Supabase%20%E2%80%A2%20Firebase&descAlign=50&descAlignY=46&descSize=18" />
 </div>
 
 <br/>
